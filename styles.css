@@ -1,0 +1,33 @@
+h1 {
+    font-family: sans-serif;
+text-align: center
+}
+
+h1 {
+    color: ##F3F3F3;
+}
+nav {
+    list-style-type: square;
+    font-family: sans-serif;
+    text-align: center
+}
+nav {list-style-type: square}
+
+
+h2 {
+    color: #4d0026;
+    text-align: center
+}
+
+body {
+    background: #ABD9FA;
+    font-family: monospace sans-serif;
+    border: 3px solid #000000;
+    padding: 10em 10em 10em 10em;
+    margin: auto auto auto auto;
+
+    text-align: left{
+        font-style: oblique;
+    }
+
+  
